@@ -1,9 +1,0 @@
-string = input("Bir cümle giriniz:")
-harfler = list(string)
-çıktı = {}
-for i in harfler:
-    if i in çıktı:
-        çıktı[i] += 1
-    else:
-        çıktı[i] = 1
-print(çıktı)
