@@ -79,3 +79,22 @@ os.system("cls" if os.name=="nt" else "clear")
 
 # person1 =Person("enes",25)
 # print(person1) 
+
+
+# ------------İnheritance--miras---------
+
+# class Person:
+#     company = "clarusway"
+
+#     def __init__(self,name,age):
+#         self.name=name
+#         self.age=age
+
+#     def __str__(self) -> str:
+#         return f"{self.name}-{self.age}"
+
+# class Employe(Person):
+#     isim="mary"
+
+# emp1=Employe("enes",25)
+# print(emp1)
