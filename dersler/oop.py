@@ -98,3 +98,4 @@ os.system("cls" if os.name=="nt" else "clear")
 
 # emp1=Employe("enes",25)
 # print(emp1)
+
