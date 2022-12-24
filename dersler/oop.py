@@ -64,3 +64,18 @@ os.system("cls" if os.name=="nt" else "clear")
 # person1 = Person("enes",25 )
 
 # ---------- __str__ ---------
+
+# class Person:
+#     comany = "clarusway"
+#     def __init__(self,name,age):
+#         self.name=name
+#         self.age=age
+
+#     def __str__(self) :
+#         return f"{self.name}-{self.age}"
+    
+#     def yazdir(self):
+#         print(f"{self.name}-{self.age}")
+
+# person1 =Person("enes",25)
+# print(person1) 
